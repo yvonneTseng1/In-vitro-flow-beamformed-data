@@ -1,0 +1,9 @@
+[Info]
+Type = 10
+Slice = 0
+TotalSize = 2097152000
+NBlocks = 512000
+BlockLength = 512
+BlockSize = 4096
+FirstBlock = 0
+NBoards = 8
